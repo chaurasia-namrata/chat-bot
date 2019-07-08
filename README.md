@@ -1,0 +1,1 @@
+This project aims to make a simple chatbot using python.
